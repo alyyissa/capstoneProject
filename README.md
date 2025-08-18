@@ -1,0 +1,1 @@
+In this project am writting the project that i did to grraduate from university in MERN stack after i wrote it in Laravel. It is more like a challenge and a way to get practice on the new technologies that i learned and used(MERN).
